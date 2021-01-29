@@ -17,3 +17,4 @@ python3 script.py
 
 ## Preview
 
+![Preview](./preview.png)
