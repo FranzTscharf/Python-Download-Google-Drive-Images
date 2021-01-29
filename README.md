@@ -1,6 +1,10 @@
 # Python-Download-Google-Drive-Images
 Python Download Google Drive Images / Python Bulk Download Google Drive Images
 
+## Requirement
+
+For this tool to work you will need python3.
+
 ## Setup
 ```
 pip3 install gdown
