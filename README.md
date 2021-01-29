@@ -14,3 +14,6 @@ replace all the urls in the urls.csv
 cd into repo
 
 python3 script.py
+
+## Preview
+
