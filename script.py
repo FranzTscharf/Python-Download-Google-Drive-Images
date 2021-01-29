@@ -4,7 +4,7 @@ import time
 import gdown
 
 def get_images():
-	with open('/Users/viktorwaltertscharf/Desktop/space_gallery_202101281940.csv', "rt", encoding='utf-8') as infile:
+	with open('./urls.csv', "rt", encoding='utf-8') as infile:
 		read = csv.reader(infile, delimiter=",")
 		for row in read :
 			print (row[1])
