@@ -15,7 +15,7 @@ replace all the urls in the urls.csv
 
 ## Run
 ```
-cd 
+cd Python-Download-Google-Drive-Images-main
 python3 script.py
 ```
 ## Preview
